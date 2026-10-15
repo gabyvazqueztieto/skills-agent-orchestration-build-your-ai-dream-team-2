@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Example Onboarding Portal Refresh",
+      "owner": "Example Owner: Mona Platform Team",
+      "status": "On track",
+      "recentActivity": "Example activity: Drafted navigation updates and reviewed accessibility notes for the next contributor walkthrough.",
+      "priority": "High",
+      "summary": "Example placeholder project showing how a high-priority dashboard item could describe a contributor-facing onboarding improvement. This is sample data, not a real project claim."
+    },
+    {
+      "name": "Example Documentation Quality Sweep",
+      "owner": "Example Owner: Docs Enablement Group",
+      "status": "At risk",
+      "recentActivity": "Example activity: Identified outdated setup steps and queued review requests for maintainers.",
+      "priority": "Medium",
+      "summary": "Example placeholder project showing how a medium-priority item could flag documentation cleanup work that needs timely review. This is sample data, not a real project claim."
+    },
+    {
+      "name": "Example Release Readiness Tracker",
+      "owner": "Example Owner: Release Coordination Team",
+      "status": "Blocked",
+      "recentActivity": "Example activity: Waiting on sample validation results before publishing the next readiness update.",
+      "priority": "High",
+      "summary": "Example placeholder project showing how a blocked release-support item could communicate dependency risk. This is sample data, not a real project claim."
+    },
+    {
+      "name": "Example Contributor Feedback Triage",
+      "owner": "Example Owner: Community Operations",
+      "status": "On track",
+      "recentActivity": "Example activity: Grouped recent feedback themes and prepared follow-up labels for volunteer review.",
+      "priority": "Low",
+      "summary": "Example placeholder project showing how a lower-priority operational item could remain visible without implying urgency. This is sample data, not a real project claim."
+    }
+  ]
+}
